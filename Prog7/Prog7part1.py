@@ -12,3 +12,4 @@ if class_name != None:
         grade = input("Grade: ")
         credits = input("Credits: ")
 f.close   
+print("can I also edit in here and will it run")
